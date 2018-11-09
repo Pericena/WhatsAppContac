@@ -1,0 +1,99 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi/exit.png
+SHA1-Digest: XvtGQm597EJdb2RVFd4nD0jy7RE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 9enK3ZaxU/vSZvv+EPm0k73uP+s=
+
+Name: res/drawable-xxhdpi/ic_share_white_24dp.png
+SHA1-Digest: HdZfI/iWdJGDzbl/i65v2RJVlh4=
+
+Name: res/drawable-xxxhdpi/ic_share_white_24dp.png
+SHA1-Digest: cp/AWjVgLovAozlpCsrQ5O25tbM=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: gSR27OGElKCwjF9oJFVye490WIo=
+
+Name: res/layout-v17/activity_main.xml
+SHA1-Digest: uIrZAMBYDOaqcMxA/e544gGmtPI=
+
+Name: assets/images (3).png
+SHA1-Digest: xLQap9QrbcHIOImryD7fo/yS4Fo=
+
+Name: res/drawable-xxhdpi/exit.png
+SHA1-Digest: eDlqejXkiOY0JROjimpbcfoCdPo=
+
+Name: res/drawable-xxxhdpi/exit.png
+SHA1-Digest: 18nwHQGBijBmJvLFOK9F0wxncY4=
+
+Name: assets/WhatsAppContac.apk
+SHA1-Digest: btaSlCP7Et3MdjPTB1dlmgEnOTE=
+
+Name: res/drawable-xxxhdpi/about.png
+SHA1-Digest: aLoiPIMcSVGORsnE/hemcYBdALM=
+
+Name: res/drawable/wheel.png
+SHA1-Digest: PCywq2YuRTtc57yppQhIUEC4Lx0=
+
+Name: res/drawable/splash.png
+SHA1-Digest: +k6uPFwD0sHp0o+HYar2OFd/bCE=
+
+Name: assets/404r.html
+SHA1-Digest: QxUmyXaegJIYnHHKjmiovP9nFV8=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: CtNMpEAYOelQsoKoHOygf85KrSc=
+
+Name: res/drawable-mdpi/ic_share_white_24dp.png
+SHA1-Digest: GWn66KXdnKlzciaT+EMSj0mK8Q0=
+
+Name: res/drawable-xxhdpi/about.png
+SHA1-Digest: 3O9WkJ4v0p+bzEw3E3ObpO5HN8A=
+
+Name: res/layout/spinr.xml
+SHA1-Digest: PVRCYaBHgpRaVrIfurdHJ44iP6A=
+
+Name: res/drawable-mdpi/exit.png
+SHA1-Digest: U2ZB+Lj6bRKeJZf+ex4IFdTPkL8=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: aKKSFpwzWt39FO0XSMrCLCn8B7w=
+
+Name: res/drawable-hdpi/ic_share_white_24dp.png
+SHA1-Digest: ybluSnaq4RHG8k/3TLas6EvlmJc=
+
+Name: assets/index8.html
+SHA1-Digest: KSsLLI3QCWgeUWIlZAzk7t6MBk0=
+
+Name: res/drawable-hdpi/about.png
+SHA1-Digest: l1pyObJyFrdrYXu/+Y/yGe5FT0A=
+
+Name: res/drawable-xhdpi/ic_share_white_24dp.png
+SHA1-Digest: 7ePl85z+sGi5886ePamT9N4Bc78=
+
+Name: assets/css.css
+SHA1-Digest: +AzZWgd5XDC9LijKPf+wF0cMejg=
+
+Name: res/drawable-xhdpi/about.png
+SHA1-Digest: GRAsvgnNV6hqJ7JpCgo/0m4rorc=
+
+Name: resources.arsc
+SHA1-Digest: gi0XixXoBtub+OlR3qAXlv8noKo=
+
+Name: res/drawable-mdpi/about.png
+SHA1-Digest: 5s8SpZE3Zqs6hJatW1W5mT5UsmQ=
+
+Name: classes.dex
+SHA1-Digest: L+6KKvYIocdWK5fM+TKB+ovBSPo=
+
+Name: assets/index.html
+SHA1-Digest: czuT2EUI/7FUKJ49Vj6ZMnFfomw=
+
+Name: res/drawable-hdpi/exit.png
+SHA1-Digest: 8hBPHsFOjkVmQmWGI0BMzfalUSE=
+
+Name: assets/js.js
+SHA1-Digest: 92iiMqqOYqmb6NSQTrkQxgtH+GY=
+
