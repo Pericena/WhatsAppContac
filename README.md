@@ -1,7 +1,4 @@
 # WhatsAppContac
-
-# WhatsAppContac
-
 *WhatsAppContac es una aplicación desarrollado en html,css,javacript.
 Comvertido en apk para poder ejecutar desde un celular es un pequeño virus broma*
 
